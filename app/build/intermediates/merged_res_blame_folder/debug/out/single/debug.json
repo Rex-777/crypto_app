@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/drawable_ic_user.xml.flat",
+        "source": "com.example.crytoapp-main-53:/drawable/ic_user.xml"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.crytoapp-main-53:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/drawable_market_content_bg.xml.flat",
+        "source": "com.example.crytoapp-main-53:/drawable/market_content_bg.xml"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.crytoapp-main-53:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.crytoapp-main-53:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/drawable_ic_star.xml.flat",
+        "source": "com.example.crytoapp-main-53:/drawable/ic_star.xml"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.crytoapp-main-53:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/drawable_ic_home.png.flat",
+        "source": "com.example.crytoapp-main-53:/drawable/ic_home.png"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.example.crytoapp-main-53:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.crytoapp-main-53:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/drawable_ic_back_stack.xml.flat",
+        "source": "com.example.crytoapp-main-53:/drawable/ic_back_stack.xml"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.crytoapp-main-53:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.crytoapp-main-53:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/drawable_top_gainers_bg.xml.flat",
+        "source": "com.example.crytoapp-main-53:/drawable/top_gainers_bg.xml"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.crytoapp-main-53:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.crytoapp-main-53:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/layout_fragment_home2.xml.flat",
+        "source": "com.example.crytoapp-main-53:/layout/fragment_home2.xml"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/drawable_ic_caret_down.xml.flat",
+        "source": "com.example.crytoapp-main-53:/drawable/ic_caret_down.xml"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.crytoapp-main-53:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/drawable_banner.jpg.flat",
+        "source": "com.example.crytoapp-main-53:/drawable/banner.jpg"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.crytoapp-main-53:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/xml_backup_rules.xml.flat",
+        "source": "com.example.crytoapp-main-53:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/navigation_nav.xml.flat",
+        "source": "com.example.crytoapp-main-53:/navigation/nav.xml"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/drawable_active_button.xml.flat",
+        "source": "com.example.crytoapp-main-53:/drawable/active_button.xml"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/layout_activity_main.xml.flat",
+        "source": "com.example.crytoapp-main-53:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/drawable_ic_stats.png.flat",
+        "source": "com.example.crytoapp-main-53:/drawable/ic_stats.png"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/font_font.xml.flat",
+        "source": "com.example.crytoapp-main-53:/font/font.xml"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.crytoapp-main-53:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.crytoapp-main-53:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/layout_fragment_top_loss_gain.xml.flat",
+        "source": "com.example.crytoapp-main-53:/layout/fragment_top_loss_gain.xml"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/layout_currency_item_layout.xml.flat",
+        "source": "com.example.crytoapp-main-53:/layout/currency_item_layout.xml"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/drawable_ic_star_outline.xml.flat",
+        "source": "com.example.crytoapp-main-53:/drawable/ic_star_outline.xml"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/drawable_search_field_bg.xml.flat",
+        "source": "com.example.crytoapp-main-53:/drawable/search_field_bg.xml"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/drawable_ic_caret_up.xml.flat",
+        "source": "com.example.crytoapp-main-53:/drawable/ic_caret_up.xml"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.crytoapp-main-53:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/drawable_spinner.gif.flat",
+        "source": "com.example.crytoapp-main-53:/drawable/spinner.gif"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/layout_fragment_details.xml.flat",
+        "source": "com.example.crytoapp-main-53:/layout/fragment_details.xml"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/drawable_ic_bookmark.png.flat",
+        "source": "com.example.crytoapp-main-53:/drawable/ic_bookmark.png"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/layout_fragment_market.xml.flat",
+        "source": "com.example.crytoapp-main-53:/layout/fragment_market.xml"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.crytoapp-main-53:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.crytoapp-main-53:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/font_nunito_medium.ttf.flat",
+        "source": "com.example.crytoapp-main-53:/font/nunito_medium.ttf"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/drawable_detail_content_bg.xml.flat",
+        "source": "com.example.crytoapp-main-53:/drawable/detail_content_bg.xml"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/drawable_top_losers_bg.xml.flat",
+        "source": "com.example.crytoapp-main-53:/drawable/top_losers_bg.xml"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/layout_top_currency_layout.xml.flat",
+        "source": "com.example.crytoapp-main-53:/layout/top_currency_layout.xml"
+    },
+    {
+        "merged": "com.example.crytoapp-merged_res-51:/layout_fragment_watch_list.xml.flat",
+        "source": "com.example.crytoapp-main-53:/layout/fragment_watch_list.xml"
+    }
+]
